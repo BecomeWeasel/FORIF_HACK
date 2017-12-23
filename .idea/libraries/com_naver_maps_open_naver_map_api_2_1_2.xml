@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.naver.maps.open:naver-map-api-2.1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/naver-map-api-2.1.2.aar/17509ea276a3713229ee3c3db6630dbf/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/naver-map-api-2.1.2.aar/17509ea276a3713229ee3c3db6630dbf/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
